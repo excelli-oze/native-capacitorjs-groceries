@@ -91,7 +91,7 @@
       "_stores.js"
     ],
     "css": [
-      "_app/immutable/assets/_layout.C9r2EFe3.css"
+      "_app/immutable/assets/_layout.BKtr4WNz.css"
     ]
   },
   "src/routes/+page.svelte": {
@@ -126,7 +126,7 @@
       "_client.js"
     ],
     "css": [
-      "_app/immutable/assets/_page.COriE7JC.css"
+      "_app/immutable/assets/_page.AOLZe4bB.css"
     ]
   },
   "src/routes/products/+page.svelte": {
