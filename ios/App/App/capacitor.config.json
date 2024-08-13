@@ -1,0 +1,23 @@
+{
+	"appId": "com.groceries.app",
+	"appName": "groceries-prototype-app",
+	"webDir": "groceries",
+	"plugins": {
+		"AppToWebPlugin": {
+			"android": "com.groceries.app.plugins.AppToWebPlugin"
+		}
+	},
+	"packageClassList": [
+		"ActionSheetPlugin",
+		"AppPlugin",
+		"CAPCameraPlugin",
+		"DialogPlugin",
+		"FilesystemPlugin",
+		"GeolocationPlugin",
+		"HapticsPlugin",
+		"LocalNotificationsPlugin",
+		"SharePlugin",
+		"StatusBarPlugin",
+		"ToastPlugin"
+	]
+}

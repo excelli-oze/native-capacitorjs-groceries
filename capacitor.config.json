@@ -1,0 +1,10 @@
+{
+  "appId": "com.groceries.app",
+  "appName": "groceries-prototype-app",
+  "webDir": "groceries",
+  "plugins": {
+    "AppToWebPlugin": {
+      "android": "com.groceries.app.plugins.AppToWebPlugin"
+    }
+  }
+}
